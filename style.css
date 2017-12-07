@@ -1,0 +1,75 @@
+
+*{
+font-family: 'robot', serif;
+font-size: 28px;
+}
+article{
+  background-color:#26C4EC;
+  border-width:5px;
+  border-style:solid;
+  border-color:#32331D;
+  text-align: center;
+}
+aside{
+  background-color: red;
+  border-width:10px;
+  border-style:solid;
+  border-color:black;
+}
+a{
+  text-align: justify;
+}
+a,a:visited{
+    font-family:'Spectral SC', serif;
+    color: #32331D;
+}
+p{
+  font-size: 26px;
+  text-align: justify;
+}
+
+h1{
+  font-family:'Spectral SC', serif;
+  color: #B9121B;
+  font-size: 48px;
+  text-align: center;
+  border-width:10px;
+  border-style:double;
+  border-color:#32331D;
+  text-align: center;
+}
+h2{
+    font-family:'Spectral SC', serif;
+    text-align: center;
+    font-size: 28px;
+    font-family:bold;
+}
+h3{
+  font-size:60px;
+  color: #FFFFFF;
+  font-family:underline,line-through;
+}
+h4{
+  font-size: 14px;
+}
+
+.alcool{
+width:250px;
+height:250px;
+}
+.soda{
+  width:250px;
+  height:250px;
+}
+.bitcoin{
+  width:250px;
+  height:200px;
+}
+.macron{
+  width:300px;
+  height:250px;
+}
+.khey{
+  width:300px;
+  height:250px;
+}
